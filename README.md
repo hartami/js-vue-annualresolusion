@@ -1,3 +1,7 @@
+![2019-01-19](https://user-images.githubusercontent.com/22983605/51429236-62dc3380-1c15-11e9-8c3b-ab9ab9a7d875.png)
+
+
+
 # vue-resolution
 
 ## Project setup
